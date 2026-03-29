@@ -1,16 +1,64 @@
-## Hi there 👋
+# 👋 Hi, I'm Sunny (codeit-sunny)
 
-<!--
-**codeit-sunny/codeit-sunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full Stack Developer | React ⚛️ | Django 🐍 | REST APIs**
 
-Here are some ideas to get you started:
+---------------------------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💫 About Me
+
+* 🔭 I’m currently working on **modern web apps using React & Django**
+* 🌱 I’m currently learning **DSA & advanced backend systems**
+* 👯 I’m looking to collaborate on **real-world projects & open source**
+* 🤔 I’m looking for help with **scalable backend architecture**
+* 💬 Ask me about **React, APIs, Git & Portfolio Projects**
+* ⚡ Fun fact: *I can debug for hours and still enjoy it 😄*
+
+----------------------------------------------------------------------
+
+## 🌐 Connect With Me
+
+* 💼 Portfolio: https://my-portfolio-px4y.vercel.app/
+* 📧 Email: sunnyrajapril@gmail.com
+* 🐙 GitHub: https://github.com/codeit-sunny
+
+-------------------------------------------------------------------------
+
+## 🛠️ Tech Stack
+
+**Frontend:**
+
+* React.js
+* HTML5, CSS3, JavaScript
+
+**Backend:**
+
+* Django
+* Django REST Framework
+
+**Tools:**
+
+* Git & GitHub
+* VS Code
+* Postman
+
+------------------------------------------------------------------------
+
+## 📊 GitHub Stats
+
+![Sunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeit-sunny\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeit-sunny\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=codeit-sunny\&theme=tokyonight)
+
+---
+
+## ✨ Quote
+
+> “Code. Debug. Repeat. That’s the life.”
+
+---
