@@ -1,4 +1,6 @@
-<!-- Header Animation --><div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Sunny+(codeit-sunny);Full+Stack+Developer;React+%E2%9A%9B%EF%B8%8F+%7C+Django+%F0%9F%90%8D+%7C+REST+APIs+%F0%9F%94%97" alt="Typing SVG" /> </div>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+!+I'm+Sunny+(codeit-sunny);Full+Stack+Developer;React+%7C+Django+%7C+REST+APIs" />
+</div>
 <!-- Animated Banner --><p align="center"> <img src="https://komarev.com/ghpvc/?username=codeit-sunny&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/codeit-sunny?label=Followers&style=social" alt="GitHub Followers" /> </p>
 💫 About Me
 <table> <tr> <td> <ul> <li>🔭 Working on <b>modern web apps with React & Django</b></li> <li>🌱 Learning <b>DSA & advanced backend systems</b></li> <li>👯 Open to collaborate on <b>real-world & open source projects</b></li> <li>🤔 Exploring <b>scalable backend architecture</b></li> <li>💬 Ask me about <b>React, APIs, Git, Portfolio Projects</b></li> <li>⚡ Fun fact: <i>I enjoy debugging more than coding sometimes 😄</i></li> </ul> </td> <td> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding GIF" /> </td> </tr> </table>
